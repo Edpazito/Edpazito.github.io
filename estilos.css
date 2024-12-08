@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+   padding: 0px;
+}
+  
+#container{
+ width:1300px;
+ margin: 0px auto;
+}
+
+
+body{
+background-color: rgb(63, 58, 59);
+}
+
+header{
+ background: rgb(63, 58, 59) ;
+ text-align: center;
+ line-height: 25px;
+ color: rgb(209, 190, 81);
+ margin-bottom: 10px;
+ margin-top: 5px;  
+}
+
+nav{
+    color: rgb(209, 190, 81);
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+div{
+    color: rgb(209, 190, 81);
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+div{
+    color: rgb(209, 190, 81);
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
